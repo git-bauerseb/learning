@@ -2,6 +2,28 @@
 
 ## Links/Resources
 https://learngitbranching.js.org/
+https://www.digitalocean.com/community/tutorials/how-to-make-an-http-server-in-go
+ - TODO: Context
+
+Distributed Services with Go
+
+
+
+HTTP Server
+- Server
+- Request Handler
+
+- Multiplexer
+
+
+## GO
+- Packages
+- Modules
+  - contains packages
+
+Package `main` special for binary
+
+- Capital letter: Function/Name exported
 
 
 ## git
@@ -29,5 +51,3 @@ cherry-pick <C0> <C1> <C2> ...
 
 - reset: Local
 - revert: rewriting history for remote branches
-
-
